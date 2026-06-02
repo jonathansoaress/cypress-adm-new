@@ -141,3 +141,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Arquivo de variaveis de ambiente do Cypress (Senhas e Secrets)
+cypress.env.json
